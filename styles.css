@@ -32,6 +32,8 @@ img {
 .hero-section{
     background-image: url("images/madrid.jpg");
     background-size: cover;
+    min-height: 300px;
+}
    }
     padding: 100px
    .warner{
